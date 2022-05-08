@@ -18,7 +18,7 @@
 
 
 ## 개발 기간
-
+2022-05-09~
 
 ## 개발 환경 및 라이브러리
 Kotlin - Android Studio (bumblebee) - API 23 ( Marchmallow )
