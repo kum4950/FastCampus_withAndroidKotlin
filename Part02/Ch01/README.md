@@ -16,6 +16,15 @@
   * When 분기문
   * 람다함수
 
+
+## 개발 기간
+
+
+## 개발 환경 및 라이브러리
+Kotlin - Android Studio (bumblebee) - API 23 ( Marchmallow )
+
+
+
 ## 프로젝트 소개
   : BMI를 계산하는 APP 입니다.
   
